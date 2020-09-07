@@ -1,4 +1,4 @@
-# Ejecución de PHP desde un contenedor de Docker 📦
+# Ejecución de PHP y Apache desde un contenedor de Docker 📦
 
 ¿Problemas a la hora de ejecutar PHP en un ordenador no compatible con 64 bits? Si eres de los que tienen que rebuscar una versión de XAMPP acorde a su sistema operativo para poder ejecutar aplicaciones PHP, **Docker** es tu solución.
 
